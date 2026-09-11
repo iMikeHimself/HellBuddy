@@ -145,5 +145,25 @@
         <file>StratagemIcons/SH-51 Directional Shield.svg</file>
         <file>StratagemIcons/SSSD Delivery.svg</file>
         <file>StratagemIcons/SoS Beacon.svg</file>
+        <file>StratagemIcons/Autocannon.svg</file>
+        <file>StratagemIcons/Ballistic Shield Backpack.svg</file>
+        <file>StratagemIcons/Commando.svg</file>
+        <file>StratagemIcons/Emancipator Exosuit.svg</file>
+        <file>StratagemIcons/Epoch.svg</file>
+        <file>StratagemIcons/Expendable Anti-Tank.svg</file>
+        <file>StratagemIcons/Expendable Napalm.svg</file>
+        <file>StratagemIcons/Fast Recon Vehicle.svg</file>
+        <file>StratagemIcons/Grenade Launcher.svg</file>
+        <file>StratagemIcons/Heavy Machine Gun.svg</file>
+        <file>StratagemIcons/Hover Pack.svg</file>
+        <file>StratagemIcons/Incendiary Mines.svg</file>
+        <file>StratagemIcons/Jump Pack.svg</file>
+        <file>StratagemIcons/Laser Cannon.svg</file>
+        <file>StratagemIcons/Machine Gun.svg</file>
+        <file>StratagemIcons/Maxigun.svg</file>
+        <file>StratagemIcons/Quasar Cannon.svg</file>
+        <file>StratagemIcons/Railgun.svg</file>
+        <file>StratagemIcons/Recoilless Rifle.svg</file>
+        <file>StratagemIcons/Supply Pack.svg</file>
     </qresource>
 </RCC>
