@@ -131,5 +131,19 @@
         <file>StratagemIcons/Lumberer Exosuit.svg</file>
         <file>StratagemIcons/Supply FRV.svg</file>
         <file>StratagemIcons/Eagle Gas Airstrike.svg</file>
+        <file>StratagemIcons/AC-8 Autocannon.svg</file>
+        <file>StratagemIcons/APW-1 Anti-Materiel Rifle.svg</file>
+        <file>StratagemIcons/Eagle 110mm Rocket Pods.svg</file>
+        <file>StratagemIcons/Eagle 500kg Bomb.svg</file>
+        <file>StratagemIcons/FX-12 Shield Generator Relay.svg</file>
+        <file>StratagemIcons/MS-11 Solo Silo.svg</file>
+        <file>StratagemIcons/Orbital 120mm HE Barrage.svg</file>
+        <file>StratagemIcons/Orbital 380mm HE Barrage.svg</file>
+        <file>StratagemIcons/PLAS-45 Epoch.svg</file>
+        <file>StratagemIcons/SH-20 Ballistic Shield Backpack.svg</file>
+        <file>StratagemIcons/SH-32 Shield Generator Pack.svg</file>
+        <file>StratagemIcons/SH-51 Directional Shield.svg</file>
+        <file>StratagemIcons/SSSD Delivery.svg</file>
+        <file>StratagemIcons/SoS Beacon.svg</file>
     </qresource>
 </RCC>
