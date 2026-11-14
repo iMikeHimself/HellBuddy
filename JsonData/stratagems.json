@@ -134,7 +134,293 @@
   },
   {
     "name": "CQC-20",
-    "sequence": ["S", "A", "D", "A", "W"]
+    "sequence": [
+      "S",
+      "A",
+      "D",
+      "A",
+      "W"
+    ]
+  },
+  {
+    "name": "Grenade Launcher",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Laser Cannon",
+    "sequence": [
+      "S",
+      "A",
+      "S",
+      "W",
+      "A"
+    ]
+  },
+  {
+    "name": "Arc Thrower",
+    "sequence": [
+      "S",
+      "D",
+      "S",
+      "W",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "name": "Quasar Cannon",
+    "sequence": [
+      "S",
+      "S",
+      "W",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Sterilizer",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "EAT-411",
+    "sequence": [
+      "S",
+      "S",
+      "A",
+      "W",
+      "S"
+    ]
+  },
+  {
+    "name": "GL-28",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "A",
+      "W",
+      "W"
+    ]
+  },
+  {
+    "name": "One True Flag",
+    "sequence": [
+      "S",
+      "A",
+      "D",
+      "D",
+      "W"
+    ]
+  },
+  {
+    "name": "40-K Meltagun",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "A",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "GL-52 De-Escalator",
+    "sequence": [
+      "S",
+      "D",
+      "W",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Epoch",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Bullet Storm",
+    "sequence": [
+      "S",
+      "A",
+      "S",
+      "D",
+      "W",
+      "A"
+    ]
+  },
+  {
+    "name": "Solo Silo",
+    "sequence": [
+      "S",
+      "W",
+      "D",
+      "S",
+      "S"
+    ]
+  },
+  {
+    "name": "Cremator",
+    "sequence": [
+      "S",
+      "S",
+      "D",
+      "S",
+      "W",
+      "W"
+    ]
+  },
+  {
+    "name": "Expendable Napalm",
+    "sequence": [
+      "S",
+      "S",
+      "A",
+      "W",
+      "A"
+    ]
+  },
+  {
+    "name": "Speargun",
+    "sequence": [
+      "S",
+      "D",
+      "S",
+      "A",
+      "W",
+      "D"
+    ]
+  },
+  {
+    "name": "Maxigun",
+    "sequence": [
+      "S",
+      "A",
+      "D",
+      "S",
+      "W",
+      "W"
+    ]
+  },
+  {
+    "name": "Defoliation Tool",
+    "sequence": [
+      "S",
+      "A",
+      "D",
+      "D",
+      "S"
+    ]
+  },
+  {
+    "name": "Eagle Strafing Run",
+    "sequence": [
+      "W",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "name": "Eagle Airstrike",
+    "sequence": [
+      "W",
+      "D",
+      "S",
+      "D"
+    ]
+  },
+  {
+    "name": "Eagle Cluster Bomb",
+    "sequence": [
+      "W",
+      "D",
+      "S",
+      "S",
+      "D"
+    ]
+  },
+  {
+    "name": "Eagle Napalm Airstrike",
+    "sequence": [
+      "W",
+      "D",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "Jump Pack",
+    "sequence": [
+      "S",
+      "W",
+      "W",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "Eagle Smoke Strike",
+    "sequence": [
+      "W",
+      "D",
+      "W",
+      "S"
+    ]
+  },
+  {
+    "name": "Eagle 110MM Rocket Pods",
+    "sequence": [
+      "W",
+      "D",
+      "W",
+      "A"
+    ]
+  },
+  {
+    "name": "Eagle 500KG Bomb",
+    "sequence": [
+      "W",
+      "D",
+      "S",
+      "S",
+      "S"
+    ]
+  },
+  {
+    "name": "Eagle Gas Airstrike",
+    "sequence": [
+      "W",
+      "D",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Eagle Rearm",
+    "sequence": [
+      "W",
+      "W",
+      "A",
+      "W",
+      "D"
+    ]
   },
   {
     "name": "Orbital Gatling Barrage",
@@ -220,92 +506,6 @@
     ]
   },
   {
-    "name": "Eagle Strafing Run",
-    "sequence": [
-      "W",
-      "D",
-      "D"
-    ]
-  },
-  {
-    "name": "Eagle Airstrike",
-    "sequence": [
-      "W",
-      "D",
-      "S",
-      "D"
-    ]
-  },
-  {
-    "name": "Eagle Cluster Bomb",
-    "sequence": [
-      "W",
-      "D",
-      "S",
-      "S",
-      "D"
-    ]
-  },
-  {
-    "name": "Eagle Napalm Airstrike",
-    "sequence": [
-      "W",
-      "D",
-      "S",
-      "W"
-    ]
-  },
-  {
-    "name": "Jump Pack",
-    "sequence": [
-      "S",
-      "W",
-      "W",
-      "S",
-      "W"
-    ]
-  },
-  {
-    "name": "Eagle Smoke Strike",
-    "sequence": [
-      "W",
-      "D",
-      "W",
-      "S"
-    ]
-  },
-  {
-    "name": "Eagle 110MM Rocket Pods",
-    "sequence": [
-      "W",
-      "D",
-      "W",
-      "A"
-    ]
-  },
-  {
-    "name": "Eagle 500KG Bomb",
-    "sequence": [
-      "W",
-      "D",
-      "S",
-      "S",
-      "S"
-    ]
-  },
-  {
-    "name": "Fast Recon Vehicle",
-    "sequence": [
-      "A",
-      "S",
-      "D",
-      "S",
-      "D",
-      "S",
-      "W"
-    ]
-  },
-  {
     "name": "Orbital Precision Strike",
     "sequence": [
       "D",
@@ -341,94 +541,11 @@
     ]
   },
   {
-    "name": "HMG Emplacement",
+    "name": "SEAF Artillery",
     "sequence": [
-      "S",
-      "W",
-      "A",
-      "D",
-      "D",
-      "A"
-    ]
-  },
-  {
-    "name": "Shield Generator Relay",
-    "sequence": [
-      "S",
-      "S",
-      "A",
-      "D",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Tesla Tower",
-    "sequence": [
-      "S",
-      "W",
       "D",
       "W",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Grenadier Battlement",
-    "sequence": [
-      "S",
-      "D",
-      "S",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Anti-Personnel Minefield",
-    "sequence": [
-      "S",
-      "A",
       "W",
-      "D"
-    ]
-  },
-  {
-    "name": "Supply Pack",
-    "sequence": [
-      "S",
-      "A",
-      "S",
-      "W",
-      "W",
-      "S"
-    ]
-  },
-  {
-    "name": "Grenade Launcher",
-    "sequence": [
-      "S",
-      "A",
-      "W",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Laser Cannon",
-    "sequence": [
-      "S",
-      "A",
-      "S",
-      "W",
-      "A"
-    ]
-  },
-  {
-    "name": "Incendiary Mines",
-    "sequence": [
-      "S",
-      "A",
-      "A",
       "S"
     ]
   },
@@ -440,67 +557,6 @@
       "A",
       "W",
       "D",
-      "D"
-    ]
-  },
-  {
-    "name": "Ballistic Shield Backpack",
-    "sequence": [
-      "S",
-      "A",
-      "S",
-      "S",
-      "W",
-      "A"
-    ]
-  },
-  {
-    "name": "Arc Thrower",
-    "sequence": [
-      "S",
-      "D",
-      "S",
-      "W",
-      "A",
-      "A"
-    ]
-  },
-  {
-    "name": "Anti-Tank Mines",
-    "sequence": [
-      "S",
-      "A",
-      "W",
-      "W"
-    ]
-  },
-  {
-    "name": "Quasar Cannon",
-    "sequence": [
-      "S",
-      "S",
-      "W",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Shield Generator Pack",
-    "sequence": [
-      "S",
-      "W",
-      "A",
-      "D",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Gas Mine",
-    "sequence": [
-      "S",
-      "A",
-      "A",
       "D"
     ]
   },
@@ -576,68 +632,6 @@
     ]
   },
   {
-    "name": "Patriot Exosuit",
-    "sequence": [
-      "A",
-      "S",
-      "D",
-      "W",
-      "A",
-      "S",
-      "S"
-    ]
-  },
-  {
-    "name": "Bastion MK XVI",
-    "sequence": ["A", "S", "D", "S", "A", "S", "W", "S", "W"]
-  },
-  {
-    "name": "Breakthrough Exosuit",
-    "sequence": ["A", "S", "D", "A", "D", "S", "W"]
-  },
-  {
-    "name": "Lumberer Exosuit",
-    "sequence": ["A", "S", "D", "W", "D", "A", "W"]
-  },
-    {
-    "name": "Incinerator FRV",
-    "sequence": ["A", "S", "D", "A", "S", "W", "W"]
-  },
-  {
-    "name": "Supply FRV",
-    "sequence": ["A", "S", "A", "A", "S", "W", "D"]
-  },
-  {
-    "name": "Emancipator Exosuit",
-    "sequence": [
-      "A",
-      "S",
-      "D",
-      "W",
-      "A",
-      "S",
-      "W"
-    ]
-  },
-  {
-    "name": "Sterilizer",
-    "sequence": [
-      "S",
-      "A",
-      "W",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "EAT-411",
-    "sequence": ["S", "S", "A", "W", "S"]
-  },
-  {
-    "name": "GL-28",
-    "sequence": ["S", "A", "W", "A", "W", "W"]
-  },
-  {
     "name": "Guard Dog Breath",
     "sequence": [
       "S",
@@ -646,28 +640,6 @@
       "W",
       "D",
       "W"
-    ]
-  },
-  {
-    "name": "Directional Shield",
-    "sequence": [
-      "S",
-      "W",
-      "A",
-      "D",
-      "W",
-      "W"
-    ]
-  },
-  {
-    "name": "Anti-Tank Emplacement",
-    "sequence": [
-      "S",
-      "W",
-      "A",
-      "D",
-      "D",
-      "D"
     ]
   },
   {
@@ -683,7 +655,90 @@
   },
   {
     "name": "Gas Mortar Sentry",
-    "sequence": ["S", "W", "D", "S", "A"]
+    "sequence": [
+      "S",
+      "W",
+      "D",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Guard Dog K-9",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "W",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "name": "Laser Sentry",
+    "sequence": [
+      "S",
+      "W",
+      "D",
+      "S",
+      "W",
+      "D"
+    ]
+  },
+  {
+    "name": "Guard Dog Hot Dog",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "W",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "name": "Supply Pack",
+    "sequence": [
+      "S",
+      "A",
+      "S",
+      "W",
+      "W",
+      "S"
+    ]
+  },
+  {
+    "name": "Ballistic Shield Backpack",
+    "sequence": [
+      "S",
+      "A",
+      "S",
+      "S",
+      "W",
+      "A"
+    ]
+  },
+  {
+    "name": "Shield Generator Pack",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "D",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Directional Shield",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "D",
+      "W",
+      "W"
+    ]
   },
   {
     "name": "Hellbomb Portable",
@@ -707,73 +762,6 @@
     ]
   },
   {
-    "name": "One True Flag",
-    "sequence": [
-      "S",
-      "A",
-      "D",
-      "D",
-      "W"
-    ]
-  },
-  {
-    "name": "40-K Meltagun",
-    "sequence": [
-      "S",
-      "A",
-      "W",
-      "A",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "GL-52 De-Escalator",
-    "sequence": [
-      "S",
-      "D",
-      "W",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Guard Dog K-9",
-    "sequence": [
-      "S",
-      "W",
-      "A",
-      "W",
-      "D",
-      "A"
-    ]
-  },
-  {
-    "name": "Epoch",
-    "sequence": [
-      "S",
-      "A",
-      "W",
-      "A",
-      "D"
-    ]
-  },
-  {
-    "name": "Bullet Storm",
-    "sequence": ["S", "A", "S", "D", "W", "A"]
-  },
-  {
-    "name": "Laser Sentry",
-    "sequence": [
-      "S",
-      "W",
-      "D",
-      "S",
-      "W",
-      "D"
-    ]
-  },
-  {
     "name": "Warp Pack",
     "sequence": [
       "S",
@@ -785,73 +773,6 @@
     ]
   },
   {
-    "name": "Solo Silo",
-    "sequence": [
-      "S",
-      "W",
-      "D",
-      "S",
-      "S"
-    ]
-  },
-  {
-    "name": "Cremator",
-    "sequence": ["S", "S", "D", "S", "W", "W"]
-  },
-  {
-    "name": "Expendable Napalm",
-    "sequence": [
-      "S",
-      "S",
-      "A",
-      "W",
-      "A"
-    ]
-  },
-  {
-    "name": "Speargun",
-    "sequence": [
-      "S",
-      "D",
-      "S",
-      "A",
-      "W",
-      "D"
-    ]
-  },
-  {
-    "name": "Maxigun",
-    "sequence": [
-      "S",
-      "A",
-      "D",
-      "S",
-      "W",
-      "W"
-    ]
-  },
-  {
-    "name": "Defoliation Tool",
-    "sequence": [
-      "S",
-      "A",
-      "D",
-      "D",
-      "S"
-    ]
-  },
-  {
-    "name": "Guard Dog Hot Dog",
-    "sequence": [
-      "S",
-      "W",
-      "A",
-      "W",
-      "A",
-      "A"
-    ]
-  },
-  {
     "name": "C4 Pack",
     "sequence": [
       "S",
@@ -860,6 +781,194 @@
       "W",
       "D",
       "W"
+    ]
+  },
+  {
+    "name": "Fast Recon Vehicle",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "S",
+      "D",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "Patriot Exosuit",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "W",
+      "A",
+      "S",
+      "S"
+    ]
+  },
+  {
+    "name": "Bastion MK XVI",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "S",
+      "A",
+      "S",
+      "W",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "Breakthrough Exosuit",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "A",
+      "D",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "Lumberer Exosuit",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "W",
+      "D",
+      "A",
+      "W"
+    ]
+  },
+  {
+    "name": "Incinerator FRV",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "A",
+      "S",
+      "W",
+      "W"
+    ]
+  },
+  {
+    "name": "Supply FRV",
+    "sequence": [
+      "A",
+      "S",
+      "A",
+      "A",
+      "S",
+      "W",
+      "D"
+    ]
+  },
+  {
+    "name": "Emancipator Exosuit",
+    "sequence": [
+      "A",
+      "S",
+      "D",
+      "W",
+      "A",
+      "S",
+      "W"
+    ]
+  },
+  {
+    "name": "HMG Emplacement",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "D",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "name": "Shield Generator Relay",
+    "sequence": [
+      "S",
+      "S",
+      "A",
+      "D",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Tesla Tower",
+    "sequence": [
+      "S",
+      "W",
+      "D",
+      "W",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Grenadier Battlement",
+    "sequence": [
+      "S",
+      "D",
+      "S",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "name": "Anti-Tank Emplacement",
+    "sequence": [
+      "S",
+      "W",
+      "A",
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "name": "Anti-Personnel Minefield",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "D"
+    ]
+  },
+  {
+    "name": "Incendiary Mines",
+    "sequence": [
+      "S",
+      "A",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Anti-Tank Mines",
+    "sequence": [
+      "S",
+      "A",
+      "W",
+      "W"
+    ]
+  },
+  {
+    "name": "Gas Mine",
+    "sequence": [
+      "S",
+      "A",
+      "A",
+      "D"
     ]
   },
   {
@@ -886,16 +995,6 @@
     "sequence": [
       "S",
       "S",
-      "W",
-      "D"
-    ]
-  },
-  {
-    "name": "Eagle Rearm",
-    "sequence": [
-      "W",
-      "W",
-      "A",
       "W",
       "D"
     ]
@@ -930,9 +1029,16 @@
       "W"
     ]
   },
-    {
+  {
     "name": "Cargo Container",
-    "sequence": ["W", "W", "S", "S", "D", "S"]
+    "sequence": [
+      "W",
+      "W",
+      "S",
+      "S",
+      "D",
+      "S"
+    ]
   },
   {
     "name": "Hellbomb",
@@ -965,15 +1071,6 @@
       "A",
       "D",
       "S",
-      "S"
-    ]
-  },
-  {
-    "name": "SEAF Artillery",
-    "sequence": [
-      "D",
-      "W",
-      "W",
       "S"
     ]
   },

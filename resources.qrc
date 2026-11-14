@@ -130,5 +130,40 @@
         <file>StratagemIcons/Incinerator FRV.svg</file>
         <file>StratagemIcons/Lumberer Exosuit.svg</file>
         <file>StratagemIcons/Supply FRV.svg</file>
+        <file>StratagemIcons/Eagle Gas Airstrike.svg</file>
+        <file>StratagemIcons/AC-8 Autocannon.svg</file>
+        <file>StratagemIcons/APW-1 Anti-Materiel Rifle.svg</file>
+        <file>StratagemIcons/Eagle 110mm Rocket Pods.svg</file>
+        <file>StratagemIcons/Eagle 500kg Bomb.svg</file>
+        <file>StratagemIcons/FX-12 Shield Generator Relay.svg</file>
+        <file>StratagemIcons/MS-11 Solo Silo.svg</file>
+        <file>StratagemIcons/Orbital 120mm HE Barrage.svg</file>
+        <file>StratagemIcons/Orbital 380mm HE Barrage.svg</file>
+        <file>StratagemIcons/PLAS-45 Epoch.svg</file>
+        <file>StratagemIcons/SH-20 Ballistic Shield Backpack.svg</file>
+        <file>StratagemIcons/SH-32 Shield Generator Pack.svg</file>
+        <file>StratagemIcons/SH-51 Directional Shield.svg</file>
+        <file>StratagemIcons/SSSD Delivery.svg</file>
+        <file>StratagemIcons/SoS Beacon.svg</file>
+        <file>StratagemIcons/Autocannon.svg</file>
+        <file>StratagemIcons/Ballistic Shield Backpack.svg</file>
+        <file>StratagemIcons/Commando.svg</file>
+        <file>StratagemIcons/Emancipator Exosuit.svg</file>
+        <file>StratagemIcons/Epoch.svg</file>
+        <file>StratagemIcons/Expendable Anti-Tank.svg</file>
+        <file>StratagemIcons/Expendable Napalm.svg</file>
+        <file>StratagemIcons/Fast Recon Vehicle.svg</file>
+        <file>StratagemIcons/Grenade Launcher.svg</file>
+        <file>StratagemIcons/Heavy Machine Gun.svg</file>
+        <file>StratagemIcons/Hover Pack.svg</file>
+        <file>StratagemIcons/Incendiary Mines.svg</file>
+        <file>StratagemIcons/Jump Pack.svg</file>
+        <file>StratagemIcons/Laser Cannon.svg</file>
+        <file>StratagemIcons/Machine Gun.svg</file>
+        <file>StratagemIcons/Maxigun.svg</file>
+        <file>StratagemIcons/Quasar Cannon.svg</file>
+        <file>StratagemIcons/Railgun.svg</file>
+        <file>StratagemIcons/Recoilless Rifle.svg</file>
+        <file>StratagemIcons/Supply Pack.svg</file>
     </qresource>
 </RCC>
